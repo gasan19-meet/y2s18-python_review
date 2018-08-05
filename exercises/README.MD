@@ -1,3 +1,4 @@
+
 ## Python Review Exercises
 
 ### 1.1: For Loops Review
@@ -23,6 +24,8 @@ from 1-100.
 Running "python conditionals.py" should print the sum of the numbers.
 
 When you are done, check your answer with a partner.
+a=1
+	
 
 If you finish early, find the largest number, less than 1,000, which
 has a remainder of 2, when divided by 6, and whose cube has a remainder
